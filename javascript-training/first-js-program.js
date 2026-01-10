@@ -31,3 +31,7 @@ console.log(fruits[1]);
 
 let personName="Praveen";
 console.log(typeof(personName));
+
+
+let personId="22";
+console.log(typeof(personName));
