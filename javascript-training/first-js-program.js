@@ -27,3 +27,7 @@ console.log(person.address.state);
 
 let fruits = ["apple", "orange"];
 console.log(fruits[1]);
+
+
+let personName="Praveen";
+console.log(typeof(personName));
