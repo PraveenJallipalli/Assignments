@@ -35,3 +35,5 @@ console.log(typeof(personName));
 
 let personId="22";
 console.log(typeof(personName));
+
+
