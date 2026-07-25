@@ -15,6 +15,10 @@
 // }
 
 
+
+//// testing the details parvvem for pushing and pulling
+
+
 // }
 // else if (temp>=20 && temp<30)
 // {
