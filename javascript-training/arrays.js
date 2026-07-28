@@ -1,8 +1,8 @@
 
-let arrays =["Employee","Job","salary","Tim","Kumar"];
+let arrays =["Employee","Job","salary","Tim","Kumar","Hen"];
 
 
-console.log(arrays[0]);
+console.log(arrays[3]);
 console.log(arrays[1]);
 console.log(arrays[2]);
 
