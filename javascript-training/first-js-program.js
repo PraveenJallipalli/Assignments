@@ -4,7 +4,7 @@ console.info("Info");
 
 console.warn("Warning");
 
-console.error("Error");
+console.error("Error in the file");
 
 
 let person={
