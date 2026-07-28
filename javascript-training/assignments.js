@@ -1,6 +1,6 @@
 //Assignment
 let temparatureCity=25.5;
-console.log("Temperature of the city " +temparatureCity);
+console.log("Temperature of the city of the area " +temparatureCity);
 
 let orderPlaced=true;
 console.log("Order status " +orderPlaced);
