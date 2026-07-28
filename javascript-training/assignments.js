@@ -11,9 +11,9 @@ console.log("PhoneNumber " +phoneNumber);
 
 let accountBalance=1000.50;
 
-console.log("Account balance of the customer " +accountBalance);
+console.log("Account balance of the customer of the customer  " +accountBalance);
 
 let emailAddress='jallipallipraveen@gmail.com';
 
-console.log("Email address of the person " +emailAddress);
+console.log("Email address of the person of the person plus addition  " +emailAddress);
 
