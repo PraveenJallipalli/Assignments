@@ -6,7 +6,6 @@ console.warn("Warning");
 
 console.error("Error in the file");
 
-
 let person={
 
     name:"praveen",
