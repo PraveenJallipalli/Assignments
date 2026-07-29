@@ -1,5 +1,5 @@
 
-let arrays =["Employee","Job","salary","Tim","Kumar","Hen","Hike"];
+let arrays =["Employee","Job","salary","Tim","Kumar","Hen","Hike","Henry"];
 
 
 console.log(arrays[3]);
