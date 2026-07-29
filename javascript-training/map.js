@@ -3,7 +3,7 @@ let empDetails =new Map();
 empDetails.set("Name", "Praveen");
 empDetails.set("Job", "software");
 empDetails.set("EmpId", 12345);
-empDetails.set("havingVisa", false);
+empDetails.set("havingVisa is not true", false);
 
 
 

@@ -1,4 +1,4 @@
-console.log("Hello World");
+console.log("Hello World is the java script");
 
 console.info("Info");
 
