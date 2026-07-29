@@ -5,7 +5,7 @@
 // currentDate.getFullYear
 
 function greet() {   
-  console.log("Hello ");
+  console.log("Hello test");
 }
 
 greet();  

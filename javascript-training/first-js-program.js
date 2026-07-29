@@ -1,4 +1,4 @@
-console.log("Hello World");
+console.log("Hello World tyoe script");
 
 console.info("Info");
 
